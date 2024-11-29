@@ -1,1 +1,1 @@
-FLAG{base64}
+R29kemExNjQ=
